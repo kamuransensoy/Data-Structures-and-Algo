@@ -117,6 +117,23 @@ public static void PlusOne(int[] digits){
             
         //return nwArr;
 }
+/**
+ * This method for reversing a string exammple
+ * It takes "Hi my name is Selim" and reverse it.
+ */
+public static String reverseString(String str) {
+    
+    str = "Hi my name is Selim!";
 
+    String newStr = "";
+
+    for(int i = str.length() - 1; i >= 0; i--){
+      newStr += str.charAt(i);
+    }
+
+    return newStr;
+
+  
+  }
 
 }
