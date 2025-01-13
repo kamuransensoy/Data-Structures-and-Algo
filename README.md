@@ -16,23 +16,12 @@ This repository includes:
    - Notes on arrays, operations, and complexity.
    - Problems like "Two Sum" and "Maximum Subarray".
    - Implementations of array traversal, insertion, and searching.
-
----
-
-## How to Use This Repository
-
-1. **Study Notes**:
-   - Navigate to the topic folder (e.g., `Arrays and Strings/`) and review the `Notes.md` file for detailed explanations.
-
-2. **Code Examples**:
-   - Check the `Implementations/` folder for code examples in Python, Java, or C++.
-
 ---
 
 ## Topics Covered
 
 - Arrays and String
-- Hashing
+- Two Pointer Approach
 
 ---
 
@@ -47,6 +36,3 @@ This repository includes:
 ## Tools and Resources
 
 - Programming Languages: Java.
-
-
-
