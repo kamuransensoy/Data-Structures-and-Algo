@@ -1,4 +1,4 @@
-Two Pointer Technique
+# Two Pointer Technique
 
 The two-pointer technique is an essential part of a programmer’s toolkit, especially in technical interviews. The name accurately describes the concept—it involves using two pointers (array indices) to save time and space while solving problems.
 
@@ -9,7 +9,7 @@ The key idea is to iterate through two different parts of the array simultaneous
 How It Works
 There are primarily two ways to implement the two-pointer technique:
 
-1. One Pointer at Each End
+## 1. One Pointer at Each End
 One pointer starts from the beginning, and the other starts from the end.
 Both pointers proceed toward each other.
 Example: Find if a Pair Exists with a Given Sum S in a Sorted Array
@@ -49,7 +49,7 @@ bool pairExists(int arr[], int n, int S) {
 }
 Time Complexity: O(n)
 
-2. Different Paces
+## 2. Different Paces
 Both pointers start from the same position but move at different speeds.
 One pointer (e.g., slow) moves step by step, while the other (e.g., fast) moves faster.
 Example: Find the Middle of a Linked List
@@ -137,6 +137,6 @@ Detecting cycles in linked lists (slow and fast pointers).
 Finding the middle of linked lists.
 Solving subarray problems (e.g., sliding window with two pointers).
 
-Conclusion
+## Conclusion
 The two-pointer technique is a simple yet powerful tool for solving many problems efficiently. By understanding its applications and mastering its use, you can significantly optimize your solutions for various algorithmic challenges.
 
