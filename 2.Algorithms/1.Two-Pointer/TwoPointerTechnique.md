@@ -138,5 +138,4 @@ Finding the middle of linked lists.
 Solving subarray problems (e.g., sliding window with two pointers).
 
 ## Conclusion
-The two-pointer technique is a simple yet powerful tool for solving many problems efficiently. By understanding its applications and mastering its use, you can significantly optimize your solutions for various algorithmic challenges.
-
+The two-pointer technique is a simple yet powerful tool for solving many problems efficiently. By understanding its applications and mastering its use, you can significantly optimize your solutions for various algorithmic challenges. 
